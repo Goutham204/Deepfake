@@ -1,1 +1,2 @@
-# Deepfake
+# Deepfake Detection
+Designed and implemented a CNN-based deepfake detection model to classify real vs. fake images. Incorporated BatchNormalization, LeakyReLU, and Dropout to improve model stability and generalization. Utilized TensorFlow, OpenCV, and ImageDataGenerator for efficient dataset preprocessing and augmentation. Applied binary classification (sigmoid activation) to enhance detection accuracy.
